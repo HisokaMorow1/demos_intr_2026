@@ -1,0 +1,6 @@
+>DNA_DEMO_001|Synthetic construct|molecule=DNA|source=local_demo|description=Short synthetic DNA sequence
+ATGCGTACGTAGCTAGCTAGCTAGCTA
+>DNA_DEMO_002|Synthetic construct|molecule=DNA|source=local_demo|description=Second short synthetic DNA sequence
+ATGCGTACGTAGCTAGATAGCTAGCTA
+>PROT_DEMO_001|Synthetic construct|molecule=protein|source=local_demo|description=Short synthetic protein sequence
+MKTFFVLLLCTFTVVNA
